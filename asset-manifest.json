@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reckon2/static/css/main.30ea52ad.css",
+    "main.js": "/Reckon2/static/js/main.022734af.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Reckon2/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Reckon2/index.html",
+    "main.30ea52ad.css.map": "/Reckon2/static/css/main.30ea52ad.css.map",
+    "main.022734af.js.map": "/Reckon2/static/js/main.022734af.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Reckon2/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.022734af.js"
+  ]
+}
